@@ -1,0 +1,30 @@
+_repo: The-Emigrantor-Reflections-While-Descending-the-Ohio_29606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, Frederick W. (Frederick William)
+    alias: Thomas, F. W. (Frederick William)
+    birthdate: 1806
+    deathdate: 1866
+    gutenberg_agent_id: '34024'
+    url: http://www.gutenberg.org/2009/agents/34024
+description: ''
+gutenberg_issued: '2009-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29606'
+  lccn: '30020904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Ohio River -- Poetry'
+title: 'The Emigrant
+
+  or Reflections While Descending the Ohio'
+url: http://www.gutenberg.org/ebooks/29606
